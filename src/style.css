@@ -57,6 +57,10 @@ body {
   width: 100%;
 }
 
+h1 {
+  color: #000;
+}
+
 .list-header > h1 {
   letter-spacing: 0.1rem;
   font-family: "Courgette", cursive;
@@ -146,15 +150,13 @@ input[type="checkbox"] {
   border-style: solid;
   border-color: #c1c7d0 transparent transparent transparent;
 }
-h1 {
-  color: #000;
-}
 
 footer {
   position: fixed;
   bottom: 0;
   padding: 30px;
 }
+
 .tribute {
   letter-spacing: 0.1rem;
   font-weight: bold;

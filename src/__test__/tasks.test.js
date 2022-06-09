@@ -78,7 +78,6 @@ describe('edit and update status', () => {
 
   test('clear all completed', () => {
     const completed = new AddRemoveTask();
-    // we had three tasks left and we marked one as complete
 
     // clear all completed task
     completed.clearCompletedTasks();

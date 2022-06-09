@@ -1,56 +1,72 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# Project Name
-
-> Description the project.
-
-
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html
+- Css
+- JavaScript
+- Webpack
 
-## Live Demo (if available)
+## Live version
 
-[Live Demo Link](https://livedemo.com)
+
+## ScreenShot of the project
+
+<img width="1789" alt="Screen Shot 2022-06-08 at 11 27 49 AM" src="https://user-images.githubusercontent.com/91022355/172547149-e36e11ef-5f94-4ce1-b494-995f24711222.png">
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+To get a copy of this project running on your local computer, do the followings:
 
 ### Prerequisites
 
+- Must have a working computer
+- A Web-Browser installed (Chrome - Recommended)
+
 ### Setup
+
+- Install _VSCode_ ([link](https://code.visualstudio.com/download))
+- Clone this project repository on your local computer. ([link](https://github.com/Kimutai01/Todo-list-test.git))
+- Open the project directory with _VSCode_
 
 ### Install
 
-### Usage
+Open _Terminal/Shell_ inside your _VSCode_ and run
+  
+  `npm run dev`
+  
+  ```
+    npm install --force
+  ```
 
 ### Run tests
+
+- For running project
+
+    `npm run dev`
+    
+- For _hint_ tests, run
+  ```
+    npm run lint:hint
+  ```
+- For _style_ tests, run
+  ```
+    npm run lint:style
+  ```
+- For _eslint_ tests, run
+  ```
+    npm run lint:es
+  ```
 
 ### Deployment
 
 
-
 ## Authors
 
-👤 **Author1**
+👤 Jahongir Yusupov
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [https://github.com/jahongiry](https://github.com/jahongiry)
+- LinkedIn: [linkedin.com/in/jahongir-yusupov](linkedin.com/in/jahongir-yusupov)
 
 ## 🤝 Contributing
 
@@ -64,10 +80,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+- Fellow Micronauts

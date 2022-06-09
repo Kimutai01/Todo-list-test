@@ -1,4 +1,5 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+
 ## Built With
 
 - Html
@@ -8,11 +9,9 @@
 
 ## Live version
 
-
 ## ScreenShot of the project
 
-<img width="1789" alt="Screen Shot 2022-06-08 at 11 27 49 AM" src="https://user-images.githubusercontent.com/91022355/172547149-e36e11ef-5f94-4ce1-b494-995f24711222.png">
-
+![screenshot](./todo.png)
 
 ## Getting Started
 
@@ -32,19 +31,19 @@ To get a copy of this project running on your local computer, do the followings:
 ### Install
 
 Open _Terminal/Shell_ inside your _VSCode_ and run
-  
-  `npm run dev`
-  
-  ```
-    npm install --force
-  ```
+
+`npm run dev`
+
+```
+  npm install --force
+```
 
 ### Run tests
 
 - For running project
 
-    `npm run dev`
-    
+  `npm run dev`
+
 - For _hint_ tests, run
   ```
     npm run lint:hint
@@ -60,13 +59,18 @@ Open _Terminal/Shell_ inside your _VSCode_ and run
 
 ### Deployment
 
-
 ## Authors
 
 👤 Jahongir Yusupov
 
 - GitHub: [https://github.com/jahongiry](https://github.com/jahongiry)
 - LinkedIn: [linkedin.com/in/jahongir-yusupov](linkedin.com/in/jahongir-yusupov)
+
+👤 **Kiprotich Kimutai**
+
+- GitHub: [@Kimutai01](https://github.com/Kimutai01)
+- Twitter: [@Kimutai_01](https://twitter.com/Kimutai_01?s=09)
+- LinkedIn: [@kiprotichkimutai](https://www.linkedin.com/m/in/kimutai-kiprotich-1b5045216)
 
 ## 🤝 Contributing
 

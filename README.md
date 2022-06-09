@@ -1,62 +1,46 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# todo list using jest:
 
-> Description the project.
+It is a website which you can add tasks and mark them as completed
 
+## Live Demo
+
+[Live Demo Link](https://kimutai01.github.io/todo-list/)
+
+![screenshot](./todo.png)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML5
+- CSS3
+- Visual Studio Code
+- Git & Github
+  -Jest
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
+
+Any modern web browser will do.
 
 ### Setup
 
-### Install
+Follow the steps described before.
 
-### Usage
+## Author
 
-### Run tests
+👤 **Kiprotich Kimutai**
 
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Kimutai01](https://github.com/Kimutai01)
+- Twitter: [@Kimutai_01](https://twitter.com/Kimutai_01?s=09)
+- LinkedIn: [@kiprotichkimutai](https://www.linkedin.com/m/in/kimutai-kiprotich-1b5045216)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the https://github.com/silviatofana/awesome-books.
 
 ## Show your support
 
@@ -66,7 +50,8 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- etc
+- Microverse program
+- My code reviewers
 
 ## 📝 License
 
